@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋🏻 I'm Dharshanaa K
 
-<!--
-**Dharshanaakamaraj123/Dharshanaakamaraj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc CS with AI & Data Science Student
 
-Here are some ideas to get you started:
+💻 Beginner Python Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Python
+- SQL
+- Data Analytics
+- Power BI
+- Machine Learning
+- Git & GitHub
+
+📊 My Interests
+- Data Analysis
+- Artificial Intelligence
+- Machine Learning
+
+🚀 My Goal
+To continuously improve my technical skills,
+build useful projects, and grow as a developer.
+
+### 🛠️ Skills I'm Learning
+
+🐍 Python  
+📊 SQL  
+📈 Excel & Power BI  
+🤖 Machine Learning  
+💻 C / C++  
+
+### 📌 Current Projects
+
+- Python Learning Journey
+- Beginner Data Analysis Projects
+- Exploring AI & Machine Learning
+
+### 🌷 My Learning Philosophy
+
+> Small steps every day, big dreams someday.
+
+⭐ Thanks for visiting my profile!
